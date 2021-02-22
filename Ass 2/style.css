@@ -1,0 +1,111 @@
+body {
+    font-family: "Lato", sans-serif;
+  }
+img{
+    margin-left: 25px;
+}
+  
+.sidenav {
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color:rgb(2, 97, 81);
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 15px;
+    color: #fff;
+    display: block;
+    text-align: center;
+    
+  }
+  
+  
+.sidenav a:hover {
+    color: rgb(233, 170, 52);
+  }
+  
+.main {
+    margin-left: 250px; 
+    font-size: 18px; 
+    padding: 0px 10px;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+  input{
+     
+      display: block;
+      margin:auto;
+      background-color: black;
+      color: #fff;
+  }
+  h6{
+      text-align: center;
+      color: #fff;
+  }
+  h5{
+      float: left;
+  }
+  #mainTut{
+      margin-left: 15px;
+      color: rgb(179, 122, 0);
+      font-weight: bolder;
+  }
+  .Tutcontent{
+      margin-left: 15px;
+  }
+
+
+
+
+
+
+  h1 {
+    font-family:Baskerville,Times,'Times New Roman',serif;
+    font-size:100px;
+    color:#464743;
+    font-variant:small-caps;
+    text-align:center;
+    font-weight:bold;
+    padding:15px 0px 15px 0px; 
+    opacity: 0.5;
+    position: relative;
+    }
+   
+   h2 {
+    font-family:georgia,serif;font-size:18px;
+    font-style:italic;
+    color:#3E2F2F;
+    letter-spacing:0;
+    line-height:1.429em;
+    padding:0;
+    text-align:center;
+    }
+   
+   h2 span {
+    font-family:baskerville,'palatino linotype',georgia,serif;
+    font-size:25px;
+    font-weight:100;
+   
+   }
+   
+   .Professional {
+   margin-left: 200px;
+   color: rgb(2, 97, 81);
+    
+    }
+    .HTML{
+      float: right;
+      margin-right: 200px;
+      color: rgb(2, 97, 81);
+    }

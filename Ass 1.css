@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+}
+
+.right{
+    float: right;
+    color: aquamarine;
+    margin-top: 50px;
+    margin-right: o;
+}
+.left{
+    color: aquamarine;
+    margin-left: 50px;
+    margin-top: 50px;
+
+}
+.pp{
+    margin-left: 50px;
+}
+    
+
+ul{
+    color: rgb(197, 43, 43);
+}
+li{
+    color: aquamarine;
+}
+img{
+    margin-top: 2px;
+}
+.ppp{
+    float: right;
+}
+div{
+    display: block;
+    float: right;
+}
+span{
+    color:aquamarine;
+}
+.card{
+    background-color: gray;
+}
+input{
+    background-color: yellow;
+    
+}
+body{
+    background-color: whitesmoke;
+}
+.card{
+    bottom: 200px;
+}
+
+    
